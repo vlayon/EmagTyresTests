@@ -1,0 +1,16 @@
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\bin\Debug\EmagTesting.dll
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\bin\Debug\EmagTesting.pdb
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\bin\Debug\WebDriver.dll
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\bin\Debug\WebDriver.Support.dll
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\bin\Debug\WebDriver.xml
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\bin\Debug\WebDriver.Support.xml
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\obj\Debug\EmagTesting.csprojResolveAssemblyReference.cache
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\obj\Debug\EmagTesting.dll
+E:\Telerik\workfolder\Emag\EmagTesting\EmagTesting\obj\Debug\EmagTesting.pdb
